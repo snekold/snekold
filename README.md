@@ -41,6 +41,10 @@
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/snekold/snekold/output/github-contribution-grid-snake-dark.svg?v=4" alt="snake dark"/>
+</p>
+
+<p align="center">
   <a href="https://t.me/PostMapping">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
