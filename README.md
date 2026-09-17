@@ -39,9 +39,6 @@
 </pre>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/snekold/snekold/output/github-contribution-grid-snake.svg?v=2" alt="snake"/>
-</p>
 
 <p align="center">
   <a href="https://t.me/PostMapping">
