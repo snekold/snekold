@@ -1,6 +1,6 @@
 <!-- Баннер -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sergey/Sergey/main/banner.png" alt="banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Sergey/Sergey/main/banner.png" alt=" " width="100%"/>
 </p>
 
 <!-- Анимированная строка с typing-эффектом -->
@@ -10,14 +10,12 @@
 
 ---
 
-### 👋 Обо мне
-
-Привет! Я **Java Backend-разработчик**. Пишу чистый код, люблю Spring и постоянно учусь новому.
+Я **Java Backend-разработчик**. Пишу чистый код, люблю Spring и постоянно учусь новому.
 В свободное время ковыряю моды для Minecraft на NeoForge.
 
 ---
 
-### 💻 Стек технологий
+### Стек
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -44,26 +42,6 @@
 
 ---
 
-### 📊 Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sergey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sergey&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" alt="streak"/>
-</p>
-
----
-
-### 📈 График активности
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergey&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=00F5FF" alt="activity graph"/>
-</p>
-
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sergey/Sergey/output/github-snake.svg" alt="snake"/>
 </p>
