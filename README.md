@@ -41,7 +41,9 @@
 </pre>
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/snekold/snekold/output/github-snake.svg" alt="snake"/>
+</p>
 
 <p align="center">
   <a href="https://t.me/PostMapping">
