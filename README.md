@@ -10,8 +10,7 @@
 
 ---
 
-**Java Backend-разработчик**
-В свободное время ковыряю моды для Minecraft на NeoForge.
+ **Java Backend-разработчик** В свободное время ковыряю моды для Minecraft на NeoForge.
 
 ---
 
