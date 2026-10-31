@@ -10,7 +10,7 @@
 
 ---
 
- **Java Backend-разработчик** ковыряю моды на NeoForge.
+ **Java Backend** ковыряю моды на NeoForge.
 
 ---
 
