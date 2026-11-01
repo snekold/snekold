@@ -1,4 +1,4 @@
-<!-- Баннер -->
+ <!-- Баннер -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sergey/Sergey/main/banner.png" alt=" " width="100%"/>
 </p>
