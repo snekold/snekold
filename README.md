@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/NeoForge-E04E14?style=for-the-badge&logo=forge&logoColor=white" alt="NeoForge"/>
+  <img src="https://img.shields.io/badge/NeoForge-E04E14?style=for-the-badge&logo=neoforge&logoColor=white" alt="NeoForge"/>
   <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
 </p>
 
